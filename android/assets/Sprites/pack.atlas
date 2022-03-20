@@ -1,0 +1,62 @@
+
+characters.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+archer
+  rotate: false
+  xy: 2, 151
+  size: 136, 91
+  orig: 136, 91
+  offset: 0, 0
+  index: -1
+characters
+  rotate: false
+  xy: 2, 362
+  size: 936, 600
+  orig: 936, 600
+  offset: 0, 0
+  index: -1
+curse
+  rotate: false
+  xy: 307, 295
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+goblin
+  rotate: false
+  xy: 940, 779
+  size: 50, 183
+  orig: 50, 183
+  offset: 0, 0
+  index: -1
+grey_rat
+  rotate: false
+  xy: 2, 2
+  size: 59, 147
+  orig: 59, 147
+  offset: 0, 0
+  index: -1
+knight
+  rotate: false
+  xy: 153, 259
+  size: 152, 101
+  orig: 152, 101
+  offset: 0, 0
+  index: -1
+mage
+  rotate: false
+  xy: 2, 244
+  size: 149, 116
+  orig: 149, 116
+  offset: 0, 0
+  index: -1
+rat
+  rotate: false
+  xy: 63, 2
+  size: 59, 147
+  orig: 59, 147
+  offset: 0, 0
+  index: -1
